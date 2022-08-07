@@ -26,7 +26,7 @@
 ## My Technical Skills: 
 
 ## How To Find Me:
-<a href="https://www.linkedin.com/in/nonzwakazimgxaji/"><img align="left" src="https://raw.githubusercontent.com/nonzwakazimgxaji/nonzwakazimgxaji/main/images/linkedin.svg" alt="Nonzwakazi Mgxaji | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/nonzwakazimgxaji/"><img align="left" href="images/linkedin.svg" alt="Nonzwakazi Mgxaji | LinkedIn" width="21px"/></a>
 📧
 <!---
 NonzwakaziMgxaji/NonzwakaziMgxaji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
