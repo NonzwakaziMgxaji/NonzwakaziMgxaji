@@ -1,3 +1,5 @@
+<p align="center"> <img width="1500" height="300" src="https://raw.githubusercontent.com/NonzwakaziMgxaji/NonzwakaziMgxaji/main/Images/mybanner.png" alt="My banner which features details of what I do"> </p>
+
 <h3 align="center">
     Hi, I'm Nonzwakazi Mgxaji.👋🏾(she/her)
 </h3>
