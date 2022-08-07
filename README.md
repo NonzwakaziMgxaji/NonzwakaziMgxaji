@@ -20,10 +20,27 @@
   https://www.credly.com/badges/df4be0c4-c35e-4fda-98b5-897125798868/public_url
 
 ## I’m currently learning 🌱
--  Python
--  Test Automation 👩🏾‍💻
+- Python
+- Test Automation 👩🏾‍💻
+- Kubernetes
+- Microsoft Azure
 
 ## My Technical Skills: 
+- HTML
+- CSS
+- JavaScript
+- DOM
+- Handlebars
+- NodeJS
+- ExpressJS
+- SQL
+- PostgreSQL
+- Mocha
+- TravisCl
+- Java
+- Git
+- Linux, Ubuntu
+- Heroku
 
 ## How To Find Me:
 <a href="https://www.linkedin.com/in/nonzwakazimgxaji/"><img align="left" src="https://raw.githubusercontent.com/NonzwakaziMgxaji/NonzwakaziMgxaji/main/Images/linkedin.svg" alt="Nonzwakazi Mgxaji | LinkedIn" width="21px"/></a>
