@@ -16,9 +16,9 @@
 - Obvs love learning new things 🤓 
 
 ## Certifications
-- Microsoft Azure Fundamentals (AZ-900)
-  https://www.credly.com/badges/df4be0c4-c35e-4fda-98b5-897125798868/public_url
-  
+<a href="https://www.credly.com/badges/df4be0c4-c35e-4fda-98b5-897125798868/public_url"><img align="left" src="https://raw.githubusercontent.com/NonzwakaziMgxaji/NonzwakaziMgxaji/main/Images/microsoft-certified-azure-fundamentals.png" alt="Nonzwakazi Mgxaji | LinkedIn" width="150px"/></a>
+
+<br><br><br><br><br><br>
 
 ## I’m currently learning 🌱
 - Python
@@ -44,4 +44,4 @@
 - Heroku
 
 ## How To Find Me:
-<a href="https://www.linkedin.com/in/nonzwakazimgxaji/"><img align="left" src="https://raw.githubusercontent.com/NonzwakaziMgxaji/NonzwakaziMgxaji/main/Images/linkedin.svg" alt="Nonzwakazi Mgxaji | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/nonzwakazimgxaji/"><img align="left" src="https://raw.githubusercontent.com/NonzwakaziMgxaji/NonzwakaziMgxaji/main/Images/linkedin.svg" alt="Nonzwakazi Mgxaji | LinkedIn" width="50px"/></a>
