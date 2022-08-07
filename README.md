@@ -18,6 +18,7 @@
 ## Certifications
 - Microsoft Azure Fundamentals (AZ-900)
   https://www.credly.com/badges/df4be0c4-c35e-4fda-98b5-897125798868/public_url
+  
 
 ## I’m currently learning 🌱
 - Python
