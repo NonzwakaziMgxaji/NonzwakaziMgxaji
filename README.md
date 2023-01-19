@@ -20,6 +20,8 @@
 ## Certifications
 <a href="https://www.credly.com/badges/df4be0c4-c35e-4fda-98b5-897125798868/public_url"><img align="left" src="https://raw.githubusercontent.com/NonzwakaziMgxaji/NonzwakaziMgxaji/main/Images/microsoft-certified-azure-fundamentals.png" alt="Nonzwakazi Mgxaji | LinkedIn" width="150px"/></a>
 
+<a href="https://www.credly.com/badges/df4be0c4-c35e-4fda-98b5-897125798868/public_url](https://www.credly.com/badges/9a9b3449-7e9d-4259-b638-4e9df46e5850/public_url"><img align="left" src="https://raw.githubusercontent.com/NonzwakaziMgxaji/NonzwakaziMgxaji/main/Images/microsoft-certified-azure-fundamentals.png" alt="Nonzwakazi Mgxaji | LinkedIn" width="150px"/></a>
+
 <br><br><br><br><br><br>
 
 ## I’m currently learning 🌱
