@@ -24,9 +24,9 @@
 
 <a href="https://www.credly.com/badges/a5376042-ce1a-42e8-8e04-321fb51abe7a/public_url"><img align="left" src="https://raw.githubusercontent.com/NonzwakaziMgxaji/NonzwakaziMgxaji/main/Images/gitlab-certified-project-management-associate.png" alt="Nonzwakazi Mgxaji | gitlab-certified-project-management-associate" width="150px"/></a>
 
-<a href="https://www.credly.com/badges/ae046afb-5ff9-46e2-ab7d-9f5570f4cd14/public_url"><img align="left" src="https://raw.githubusercontent.com/NonzwakaziMgxaji/NonzwakaziMgxaji/main/Images/gitlab-certified-ci-cd-associate.png" alt="Nonzwakazi Mgxaji | gitlab-certified-ci-cd-associate" width="150px"/></a><br><br><br>
+<a href="https://www.credly.com/badges/ae046afb-5ff9-46e2-ab7d-9f5570f4cd14/public_url"><img align="left" src="https://raw.githubusercontent.com/NonzwakaziMgxaji/NonzwakaziMgxaji/main/Images/gitlab-certified-ci-cd-associate.png" alt="Nonzwakazi Mgxaji | gitlab-certified-ci-cd-associate" width="150px"/></a>
 
-<a href="https://www.credly.com/badges/1df49905-a47e-435e-9bb6-28f5e898168d/public_url"><img align="left" src="https://raw.githubusercontent.com/NonzwakaziMgxaji/NonzwakaziMgxaji/main/Images/gitlab-certified-security-specialist.png" alt="Nonzwakazi Mgxaji | gitlab-certified-security-specialist" width="150px"/></a>
+<a href="https://www.credly.com/badges/1df49905-a47e-435e-9bb6-28f5e898168d/public_url"><img align="left" src="https://raw.githubusercontent.com/NonzwakaziMgxaji/NonzwakaziMgxaji/main/Images/gitlab-certified-security-specialist.png" alt="Nonzwakazi Mgxaji | gitlab-certified-security-specialist" width="150px"/></a><br><br><br>
 
 <a href="https://www.credly.com/badges/58114d12-bc89-4612-b235-f9d633de065a/public_url"><img align="left" src="https://raw.githubusercontent.com/NonzwakaziMgxaji/NonzwakaziMgxaji/main/Images/gitlab-certified-migration-services-specialist.png" alt="Nonzwakazi Mgxaji | gitlab-certified-migration-services-specialist" width="150px"/></a>
 
