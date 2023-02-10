@@ -36,6 +36,8 @@
 
 <a href="https://www.credly.com/badges/7ef350f7-b260-41fa-90f3-f63c315e6828/public_url"><img align="left" src="https://raw.githubusercontent.com/NonzwakaziMgxaji/NonzwakaziMgxaji/main/Images/gitlab-certified-services-engineer-professional.png" alt="Nonzwakazi Mgxaji | gitlab-certified-services-engineer-professional" width="150px"/></a>
 
+<img align="left" src="https://raw.githubusercontent.com/NonzwakaziMgxaji/NonzwakaziMgxaji/main/Images/XRAY-Badge-EXPERT.png" alt="Nonzwakazi Mgxaji | Xray Expert Badge" width="150px"/>
+
 <br><br><br><br><br><br>
 
 ## I’m currently learning 🌱
