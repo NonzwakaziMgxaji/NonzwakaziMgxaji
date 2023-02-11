@@ -38,7 +38,7 @@
 
 <img align="left" src="https://raw.githubusercontent.com/NonzwakaziMgxaji/NonzwakaziMgxaji/main/Images/XRAY-Badge-EXPERT.png" alt="Nonzwakazi Mgxaji | Xray Expert Badge" width="150px"/>
 
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## I’m currently learning 🌱
 - Python
