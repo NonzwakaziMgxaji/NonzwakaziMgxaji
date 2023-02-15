@@ -28,7 +28,7 @@
 
 <a href="https://www.credly.com/badges/1df49905-a47e-435e-9bb6-28f5e898168d/public_url"><img align="left" src="https://raw.githubusercontent.com/NonzwakaziMgxaji/NonzwakaziMgxaji/main/Images/gitlab-certified-security-specialist.png" alt="Nonzwakazi Mgxaji | gitlab-certified-security-specialist" width="150px"/></a>
 
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 <a href="https://www.credly.com/badges/58114d12-bc89-4612-b235-f9d633de065a/public_url"><img align="left" src="https://raw.githubusercontent.com/NonzwakaziMgxaji/NonzwakaziMgxaji/main/Images/gitlab-certified-migration-services-specialist.png" alt="Nonzwakazi Mgxaji | gitlab-certified-migration-services-specialist" width="150px"/></a>
 
