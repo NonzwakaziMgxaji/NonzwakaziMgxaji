@@ -5,7 +5,7 @@
 </h3>
 
 <h4 align="center">
-    I'm a Software Engineer Intern and a 3rd year student in Applications Development👩🏾‍💻
+    I'm a Junior Software Developer and an Applications Development Graduate 👩🏾‍💻
 </h4>
 
 ## Get To Know Me:
